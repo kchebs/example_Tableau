@@ -1,9 +1,9 @@
 # example_Tableau
 
-The following the Tableau (.twbx) files can be viewed either via:
-	1. https://public.tableau.com/profile/kevin3528#!/
-	2. A free trial version of Tableau
-	3. Always free Tableau Public
+The following Tableau (.twbx) files can be viewed via:
+1. https://public.tableau.com/profile/kevin3528#!/
+2. A free trial version of Tableau
+3. Always free Tableau Public
 
 ## Presentations
 
